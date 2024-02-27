@@ -1,0 +1,24 @@
+09:35:14.830 [main] INFO  base.baseClass - *****Navigating to policyBazaar Website**********
+09:35:15.072 [main] INFO  base.baseClass - *****Scrolling down until all options are available**********
+09:35:15.836 [main] INFO  base.baseClass - *****Selecting travel insurance out of the options available**********
+09:35:21.229 [main] INFO  base.baseClass - *****selecting the country to travel to**********
+09:35:22.384 [main] INFO  base.baseClass - *****Clicking on next button**********
+09:35:22.541 [main] INFO  base.baseClass - *****selecting the start end and end date for the trip**********
+14:03:19.012 [main] INFO  base.baseClass - *****Navigating to policyBazaar Website**********
+14:03:19.291 [main] INFO  base.baseClass - *****Scrolling down until all options are available**********
+14:03:20.223 [main] INFO  base.baseClass - *****Selecting travel insurance out of the options available**********
+14:03:20.886 [main] INFO  base.baseClass - *****selecting the country to travel to**********
+14:03:25.438 [main] INFO  base.baseClass - *****Clicking on next button**********
+14:03:25.720 [main] INFO  base.baseClass - *****selecting the start end and end date for the trip**********
+14:03:29.714 [main] INFO  base.baseClass - *****selecting the number of people traveling**********
+14:03:30.123 [main] INFO  base.baseClass - *****selecting age of the person **********
+14:03:31.504 [main] INFO  base.baseClass - *****selecting age of second person**********
+14:03:33.447 [main] INFO  base.baseClass - *****entering the details of any pre-existing medical condition if any**********
+14:03:34.226 [main] INFO  base.baseClass - *****entering the mobile number **********
+14:03:35.622 [main] INFO  base.baseClass - *****displaying the title of the page opened**********
+14:03:36.983 [main] INFO  base.baseClass - *******user selects student plan from the filter options********
+14:03:38.730 [main] INFO  base.baseClass - *******Student Travel Information slider page is opened********
+14:03:38.731 [main] INFO  base.baseClass - *******user selects the Student Visa for both the student travellers********
+14:03:39.288 [main] INFO  base.baseClass - *******user enters the duration of the trip and clicks on apply changes********
+14:03:39.734 [main] INFO  base.baseClass - *****selecting low to high filter from the sort by dropdown to apply filter**********
+14:03:44.387 [main] INFO  base.baseClass - *****printing the top3 minimum travel insurance plans for students**********
